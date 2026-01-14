@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+openai
+beautifulsoup4
+ollama
+requests
+python-dotenv
